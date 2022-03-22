@@ -1,6 +1,5 @@
 # toy_server
-This repo contains a response to the 
-https://github.com/springload/frontend-starter-kit/blob/main/docs/node-coding-test.md challenge.
+This repo contains a response to a code challenge.
 
 Clone the repo, and copy in the .env file.    
 Install with
